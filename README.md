@@ -4,10 +4,10 @@
 
 # Как увеличить Open Rate и CTR???
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Эффективность каждой рассылки зависит от базовых метрик Open Rate и CTR, значение которых формируется из множества факторов: контент письма, ниша бизнеса, целевая аудитория, объем базы подписчиков и многое другое. Улучшив такие показатели, можно добиться более высоких продаж, повысить узнаваемость бренда и сделать аудиторию лояльной.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 # Что же такое Open Rate и CTR и как увеличить их значение для email-рассылки – рассказываем в сегодняшней статье.
 ## Open Rate и CTR: что это такое и зачем нужно
 
