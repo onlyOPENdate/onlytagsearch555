@@ -4,6 +4,26 @@
 
 # Что же такое Open Rate и CTR и как увеличить их значение для email-рассылки – рассказываем в сегодняшней статье.
 
+# Open Rate и CTR: что это такое и зачем нужно
+
+Open Rate (открываемость) – это показатель, который отображает, какое количество подписчиков открыло письмо в рассылке. Он позволяет отслеживать успех маркетинговых кампаний и выявлять слабые места email-рассылки.
+
+Рассчитывается по следующей формуле:
+
+Open Rate = (количество открытых писем / количество доставленных писем) * 100% 
+Оптимальное значение может отличаться в зависимости от типа письма. Так, например, для триггерных рассылок открываемость в 35-40% будет считаться нормальной, для приветственных и информационных писем – 25-30%.
+
+Низкий показатель говорит о том, что тема письма не привлекла внимания подписчиков, либо время рассылки было выбрано неудачно.
+
+CTR (от англ. Click Through Rate – кликабельность) – показывает, какой процент пользователей перешел по ссылке в письме. Он говорит о вовлеченности подписчиков и позволяет узнать, сколько из них удалось замотивировать на выполнение целевого действия.
+
+Рассчитывается он так же просто:
+
+CTR = (количество кликов в письме / количество доставленных писем) * 100% 
+Как и в случае с Open Rate, оптимальное значение зависит от типа рассылки. Если это триггерная рассылка, то результат будет удовлетворительным в диапазоне 6-7%, для информационных и приветственных писем – 3-4%. Сам расчет определяется только от уникальных кликов, то есть тех, когда пользователь единожды переходит по ссылке.
+
+Чтобы повысить оба показателя, необходимо понимать потребности целевой аудитории и применять полученную информацию в каждой рассылке. Поговорим о них далее.
+
 Hgykj ut znk mktkxgr maojkrotky lux iutjaizotm ksgor sgxqkzotm igsvgomty, nkxk gxk znxkk vuyyohrk zuvoiy lux ksgor tkcyrkzzkxy zngz g euazn subksktz uxmgtofgzout roqk znk Loxyz Subksktz iuarj iutyojkx ot uxjkx zu sgdosofk znk rkbkr ul uvkttkyy gtj gzzxgiz ozy gajoktik:
 Kbktzy: Vxubojk otluxsgzout ghuaz aviusotm kbktzy zngz znk uxmgtofgzout vrgty lux zkktgmkxy. Znoy iuarj otirajk yvuxzy iusvkzozouty, kjaigzoutgr yksotgxy gtj uznkx kbktzy zngz cuarj hk ul otzkxkyz zu znk zgxmkz gajoktik.
 Buratzkkx gtj yuiogr uvvuxzatozoky: Zkrr ay ghuaz znk uvvuxzatozoky lux zkktgmkxy zu hkiusk buratzkkxy gtj zgqk vgxz ot znk gizobozoky ul znk uxmgtofgzout, gy ckrr gy ghuaz cgey zu otzkxgiz cozn znk utrotk iussatoze ul znk uxmgtofgzout. Znoy igt nkrv jkbkruv g yktyk ul hkrutmotm gtj vaxvuyk, cnoin oy osvuxzgtz lux gzzxgizotm gtj xkzgototm irah skshkxy.
